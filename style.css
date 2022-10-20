@@ -3,9 +3,13 @@
 html, body {
   height: 100%;
   width: 100%;
-  background-color: black;
-  color: white;
-  font-family: 'Roboto', sans-serif;
+  background-color: #1cd955;
+
+  
+  font-family: 'Caveat', sans-serif;
+  color: #ff00bb;
+  font-size: 20px;
+
 }
 
 /* task 11: add flexbox to the div with a class named navBar.*/
@@ -48,7 +52,7 @@ a {
 }
 
 h1 {
-  color: #fee975;
+  color: #0d0d0c;
 }
 
 img {
